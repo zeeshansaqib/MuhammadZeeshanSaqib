@@ -1,6 +1,6 @@
 # MuhammadZeeshanSaqib
 # 💫 About Me:
-📍 Based in Lahore, Pakistan.<br>🏢 I'm currently an undergraduate student at virtual University, Pakistan.<br>🤓 I'm proficient in Full Stack Web Development.<br>🌱 I’m currently learning and working on Reactjs.<br>👨🏻‍💻 My portfolio - <a href="https://zeeshansaqib.github.io/my-portfolio">Muhammad Zeeshan Saqib</a>
+📍 Based in Lahore, Pakistan.<br>🏢 I'm currently an undergraduate student at virtual University, Pakistan.<br>🤓 I'm proficient in Full Stack Web Development.<br>🌱 I’m currently learning and working on HTML,CSS,JavaScript,ReactJs,Php,Mysql...etc.<br>👨🏻‍💻 My portfolio - <a href="https://zeeshansaqib.github.io/my-portfolio">Muhammad Zeeshan Saqib</a>
 
 
 ## 🌐 Socials:
